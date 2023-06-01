@@ -1,0 +1,5 @@
+build/
+dist/
+liblouis/
+*.egg-info/
+louis/
